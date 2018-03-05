@@ -1,8 +1,8 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: CMlhc Blog
+SEOTitle: 细雨烹茶的博客 | CMlhc Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: haochun_liang@foxmail.com
 description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "http://CMlhc.github.io"              # your host, for absolute URL
@@ -12,11 +12,11 @@ github_repo: "https://github.com/CMlhc/CMlhc.github.io.git" # you code repositor
 
 
 # SNS settings
-RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+RSS: true
+# weibo_username:     huxpro
+zhihu_username:     haochun_liang
+github_username:    CMlhc
+# twitter_username:   huxpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
 
