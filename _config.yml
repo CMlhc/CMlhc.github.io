@@ -12,7 +12,7 @@ github_repo: "https://github.com/CMlhc/CMlhc.github.io.git" # you code repositor
 
 
 # SNS settings
-RSS: true
+RSS: false
 # weibo_username:     huxpro
 zhihu_username:     haochun_liang
 github_username:    CMlhc
