@@ -1,6 +1,6 @@
 > My will is do my own.
 
-Hey, I'm a light rain tea cooking, Northeastern University Computer Science and Engineering 2016 students, mainly from the [zhihu](https://www.zhihu.com/people/haochun_liang/).
+Hey, I'm CMlhc, Northeastern University Computer Science and Engineering 2016 students, mainly from the [zhihu](https://www.zhihu.com/people/haochun_liang/).
 
 
 ##### Talks
