@@ -13,9 +13,9 @@ github_repo: "https://github.com/CMlhc/CMlhc.github.io.git" # you code repositor
 
 # SNS settings
 RSS: false
-# weibo_username:     huxpro
 zhihu_username:     haochun_liang
 github_username:    CMlhc
+weibo_username:     6439265212
 # twitter_username:   huxpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
